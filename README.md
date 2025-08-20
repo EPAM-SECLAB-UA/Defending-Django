@@ -14,12 +14,6 @@ https://www.securitycompass.com/training_courses/dja201-defending-django/
 
 Цей курс був створений для розробників, які вже мають деякий досвід програмування на **Python та розробки веб-додатків** з платформою Django. Мета цього курсу — висвітлити безпечні способи створення веб-додатків, максимально використовуючи вбудовані функції безпеки Django, та розвинути те, що ви вже знаєте про використання платформи Django.
 
-## Деталі курсу
-
-| **Аудиторія** | **Необхідний час** |
-|--------------|-------------------|
-| Python розробники<br>Розробники веб-додатків | Індивідуальне навчання – **70 хвилин загалом** |
-
 ## План курсу
 
 ### 1. Налаштування Django проєкту
@@ -128,11 +122,6 @@ You will also learn how to identify secure and insecure practices to protect you
 
 This course was created for developers who already have some experience coding in **Python and developing web applications** with the Django platform. The purpose of this course is to highlight secure ways of creating web applications, making the best use of Django's built-in security features, and to build on what you already know about using the Django platform.
 
-## Course Details
-
-| **Audience** | **Time Required** |
-|--------------|-------------------|
-| Python developers<br>Web application developers | Tailored learning – **70 minutes total** |
 
 ## Course Outline
 
