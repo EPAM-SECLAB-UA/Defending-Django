@@ -222,6 +222,11 @@ This course was created for developers who already have some experience coding i
 # Посилання
 
 - Modern DevSecOps Practices for Django Developers (2025 Edition), https://medium.com/@Am_Issath/modern-devsecops-practices-for-django-developers-2025-edition-d007d61791c9
+- Django Internationalization: Because the World Speaks More Than English (And Your App Doesn’t), https://medium.com/@Am_Issath/django-internationalization-because-the-world-speaks-more-than-english-and-your-app-doesnt-8968ea951dd4
+- How to Implement OAuth 2.0 Authentication in Django, https://medium.com/@Am_Issath/how-to-implement-oauth-2-0-authentication-in-django-c9ecf251a5ef
+- Building a Django Enterprise-Ready Roles and Permissions System, https://medium.com/@eagnoun/building-a-django-enterprise-ready-roles-and-permissions-system-5eb9136427fb
+- Nginx for Django + Hugo: Reverse Proxy Like a Pro, https://medium.com/@anzaloquin/nginx-for-django-hugo-reverse-proxy-like-a-pro-2c4f7f5cb378
+- 
 
 
 
