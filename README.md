@@ -1,3 +1,4 @@
+
 # Defending-Django
 
 https://www.securitycompass.com/training_courses/dja201-defending-django/
@@ -217,3 +218,10 @@ This course was created for developers who already have some experience coding i
 - Update Django
 
   -----------------------------------------------------------------------------------
+
+# Посилання
+
+- Modern DevSecOps Practices for Django Developers (2025 Edition), https://medium.com/@Am_Issath/modern-devsecops-practices-for-django-developers-2025-edition-d007d61791c9
+
+
+
