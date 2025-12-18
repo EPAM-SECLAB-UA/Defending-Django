@@ -227,6 +227,8 @@ This course was created for developers who already have some experience coding i
 - Building a Django Enterprise-Ready Roles and Permissions System, https://medium.com/@eagnoun/building-a-django-enterprise-ready-roles-and-permissions-system-5eb9136427fb
 - Nginx for Django + Hugo: Reverse Proxy Like a Pro, https://medium.com/@anzaloquin/nginx-for-django-hugo-reverse-proxy-like-a-pro-2c4f7f5cb378
 - Stop Trusting Your Reverse Proxy: Secure Django the Right Way, https://medium.com/@anas-issath/stop-trusting-your-reverse-proxy-secure-django-the-right-way-ec45bad71c34
+- How to Deploy a Django REST API with Nginx and Gunicorn on Ubuntu (Step-by-Step Guide), https://medium.com/@jinalpatel001212/how-to-deploy-a-django-rest-api-with-nginx-and-gunicorn-on-ubuntu-step-by-step-guide-600d8e3c84a4
+- Protecting Your Django Application: Building a Custom Rate Limiter with Redis Middleware (Part 1), https://medium.com/@sizanmahmud08/protecting-your-django-application-building-a-custom-rate-limiter-with-redis-middleware-part-1-a5088a5776c9
 - 
 
 
