@@ -1,5 +1,6 @@
 
-# Резюме: Безпечна конфігурація Django за зворотним проксі-сервером
+# Безпечна конфігурація Django за зворотним проксі-сервером
+https://medium.com/@anas-issath/stop-trusting-your-reverse-proxy-secure-django-the-right-way-ec45bad71c34
 
 ## Основна проблема
 
