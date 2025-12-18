@@ -229,6 +229,10 @@ This course was created for developers who already have some experience coding i
 - Stop Trusting Your Reverse Proxy: Secure Django the Right Way, https://medium.com/@anas-issath/stop-trusting-your-reverse-proxy-secure-django-the-right-way-ec45bad71c34
 - How to Deploy a Django REST API with Nginx and Gunicorn on Ubuntu (Step-by-Step Guide), https://medium.com/@jinalpatel001212/how-to-deploy-a-django-rest-api-with-nginx-and-gunicorn-on-ubuntu-step-by-step-guide-600d8e3c84a4
 - Protecting Your Django Application: Building a Custom Rate Limiter with Redis Middleware (Part 1), https://medium.com/@sizanmahmud08/protecting-your-django-application-building-a-custom-rate-limiter-with-redis-middleware-part-1-a5088a5776c9
+- Load Testing Django Rate Limiting: Stress Testing with Locust and Advanced Redis Patterns (Part 2), https://medium.com/@sizanmahmud08/load-testing-django-rate-limiting-stress-testing-with-locust-and-advanced-redis-patterns-part-2-c174db329f91
+- The Art of Writing Clean Django Code — Part 2, https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-2-31201ac07cd0
+- The Art of Writing Clean Django Code — Part 3, https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-3-54e924a22635
+- Stop Using Django’s Default Settings — Do This Instead, https://medium.com/the-pythonworld/stop-using-djangos-default-settings-do-this-instead-ea6f814dc1a1
 - 
 
 
