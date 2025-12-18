@@ -226,6 +226,7 @@ This course was created for developers who already have some experience coding i
 - How to Implement OAuth 2.0 Authentication in Django, https://medium.com/@Am_Issath/how-to-implement-oauth-2-0-authentication-in-django-c9ecf251a5ef
 - Building a Django Enterprise-Ready Roles and Permissions System, https://medium.com/@eagnoun/building-a-django-enterprise-ready-roles-and-permissions-system-5eb9136427fb
 - Nginx for Django + Hugo: Reverse Proxy Like a Pro, https://medium.com/@anzaloquin/nginx-for-django-hugo-reverse-proxy-like-a-pro-2c4f7f5cb378
+- Stop Trusting Your Reverse Proxy: Secure Django the Right Way, https://medium.com/@anas-issath/stop-trusting-your-reverse-proxy-secure-django-the-right-way-ec45bad71c34
 - 
 
 
