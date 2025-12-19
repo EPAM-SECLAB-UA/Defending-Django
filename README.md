@@ -220,9 +220,11 @@ This course was created for developers who already have some experience coding i
   -----------------------------------------------------------------------------------
 
 
+# Проектування системи дозволів для Django SaaS
+
+ Побудова комплексної системи дозволів для багатоорендних SaaS-додатків на Django, що включає ролі, політики, безпеку на рівні рядків та асинхронні перевірки.
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GeFQAbjBl17OV0tzkWcTsA.png)
-
 
 
 # Посилання
