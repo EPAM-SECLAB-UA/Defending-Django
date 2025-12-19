@@ -219,6 +219,12 @@ This course was created for developers who already have some experience coding i
 
   -----------------------------------------------------------------------------------
 
+
+
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GeFQAbjBl17OV0tzkWcTsA.png)
+
+
+
 # Посилання
 
 - Modern DevSecOps Practices for Django Developers (2025 Edition), https://medium.com/@Am_Issath/modern-devsecops-practices-for-django-developers-2025-edition-d007d61791c9
