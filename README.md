@@ -281,3 +281,11 @@ This course was created for developers who already have some experience coding i
 - A Complete Guide to Secure Docker-Compose Applications With Traefik, https://medium.com/@rragesh/a-complete-guide-to-secure-docker-compose-applications-with-traefik-bde8b143839d
 - 
 
+
+# Firebase
+- Firebase App Check in Compose Multiplatform Project, https://medium.com/@rubezinevgenij/firebase-app-check-in-compose-multiplatform-project-8892d878fcd2
+- Google & Apple Firebase Sign-In with Compose Multiplatform, https://medium.com/@rubezinevgenij/google-apple-firebase-sign-in-with-compose-multiplatform-e558ff5f2460
+- FIREBASE, https://medium.com/@sam689422/firebase-05f6d1334d53
+- Firebase Push Notifications in Flutter, https://medium.com/@dritik458/firebase-push-notifications-in-flutter-c3a664a1ac59
+- 🔔 Topic-Based Push Notifications in Flutter for Android & iOS Using Firebase Cloud Messaging (FCM), https://medium.com/@shishir569/topic-based-push-notifications-in-flutter-for-android-ios-using-firebase-cloud-messaging-fcm-b5b6dbfb1391
+- 
