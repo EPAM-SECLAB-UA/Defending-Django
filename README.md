@@ -242,10 +242,16 @@ This course was created for developers who already have some experience coding i
 - The Art of Writing Clean Django Code — Part 3, https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-3-54e924a22635
 - Stop Using Django’s Default Settings — Do This Instead, https://medium.com/the-pythonworld/stop-using-djangos-default-settings-do-this-instead-ea6f814dc1a1
 
-# SaaS
+# Django SaaS
 
 - Designing a Django SaaS Permission System (Roles, Policies, RLS, and Async Checks), https://medium.com/@yogeshkrishnanseeniraj/designing-a-django-saas-permission-system-roles-policies-rls-and-async-checks-5f63f9288b25
+- SaaS Applications with Django: Introduction to Building Scalable Software Solutions [Part 1/7], https://medium.com/@mathur.danduprolu/saas-applications-with-django-introduction-to-building-scalable-software-solutions-part-1-7-d0228bc3761b
 - SaaS Applications with Django: Ensuring Security for Your SaaS Platform [Part 6/7], https://medium.com/@mathur.danduprolu/saas-applications-with-django-ensuring-security-for-your-saas-platform-part-6-7-80bbfabfbd07
+- Django and Microservices Architecture: A Comprehensive Guide [Part 1/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-a-comprehensive-guide-part-1-7-6505e42cc38d
+
+
+# NGINX
+- Deploying and Monitoring NGINX in a Production Environment [Part 7/7], https://medium.com/@mathur.danduprolu/deploying-and-monitoring-nginx-in-a-production-environment-part-7-7-81e548bb2c56
 - 
 
 
