@@ -277,5 +277,7 @@ This course was created for developers who already have some experience coding i
 - Django Rest Framework Best Practices, https://medium.com/@Tech_girlll/django-rest-framework-best-practices-419cbe6d81d6
 - 
 
-
+# SECURE DOCKER
+- A Complete Guide to Secure Docker-Compose Applications With Traefik, https://medium.com/@rragesh/a-complete-guide-to-secure-docker-compose-applications-with-traefik-bde8b143839d
+- 
 
