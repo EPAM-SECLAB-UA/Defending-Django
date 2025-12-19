@@ -267,6 +267,8 @@ This course was created for developers who already have some experience coding i
 
 # NGINX
 - Deploying and Monitoring NGINX in a Production Environment [Part 7/7], https://medium.com/@mathur.danduprolu/deploying-and-monitoring-nginx-in-a-production-environment-part-7-7-81e548bb2c56
+- A Practical Guide to Blue/Green Deployments Using Nginx, https://medium.com/@Adewuumii/a-practical-guide-to-blue-green-deployments-using-nginx-3fcd1001ccc3
+- 
 
 
 # REST API 
