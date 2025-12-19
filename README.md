@@ -246,12 +246,33 @@ This course was created for developers who already have some experience coding i
 
 - Designing a Django SaaS Permission System (Roles, Policies, RLS, and Async Checks), https://medium.com/@yogeshkrishnanseeniraj/designing-a-django-saas-permission-system-roles-policies-rls-and-async-checks-5f63f9288b25
 - SaaS Applications with Django: Introduction to Building Scalable Software Solutions [Part 1/7], https://medium.com/@mathur.danduprolu/saas-applications-with-django-introduction-to-building-scalable-software-solutions-part-1-7-d0228bc3761b
+- SaaS Applications with Django: User Management and Role-Based Access Control [Part 3/7], https://medium.com/@mathur.danduprolu/saas-applications-with-django-user-management-and-role-based-access-control-part-3-7-a8ff2b8c6490
 - SaaS Applications with Django: Ensuring Security for Your SaaS Platform [Part 6/7], https://medium.com/@mathur.danduprolu/saas-applications-with-django-ensuring-security-for-your-saas-platform-part-6-7-80bbfabfbd07
 - Django and Microservices Architecture: A Comprehensive Guide [Part 1/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-a-comprehensive-guide-part-1-7-6505e42cc38d
+- Django and Microservices Architecture: Database Management for Microservices [Part 4/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-database-management-for-microservices-part-4-7-17f4ddd72d50
+- Django and Microservices Architecture: Securing Microservices [Part 6/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-securing-microservices-part-6-7-bd5b9a8307b9
+- 
+
+
+
+# Django Aplication
+- Day 9: Building a Sentiment Analysis Tool with Django and NLT, https://medium.com/@mathur.danduprolu/day-12-building-a-sentiment-analysis-tool-with-django-and-nlt-3272fb05d985
+- 
+
+
+# Authentication
+- Django and React -Implementing Token Authentication with Simple JWT🤖, https://medium.com/@sarathkumarrs/django-and-react-implementing-token-authentication-with-simple-jwt-b2a4f290f401
+- OAuth Implementation from scratch — React Native with Expo(Django Backend), https://medium.com/@sarathkumarrs/oauth-implementation-from-scratch-react-native-with-expo-django-backend-8f1dec117224
 
 
 # NGINX
 - Deploying and Monitoring NGINX in a Production Environment [Part 7/7], https://medium.com/@mathur.danduprolu/deploying-and-monitoring-nginx-in-a-production-environment-part-7-7-81e548bb2c56
+
+
+# REST API 
+- 🚀 8 REST API Design Rules That Separate Senior Engineers from Beginners, https://medium.com/write-a-catalyst/8-rest-api-design-rules-that-separate-senior-engineers-from-beginners-1d5d2409e54d
+- Django REST API: Swagger Docs & Testing Made Simple, https://medium.com/@sarathkumarrs/django-rest-api-swagger-docs-testing-made-simple-21da7eb0485b
+- Django Rest Framework Best Practices, https://medium.com/@Tech_girlll/django-rest-framework-best-practices-419cbe6d81d6
 - 
 
 
