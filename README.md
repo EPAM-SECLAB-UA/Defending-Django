@@ -241,7 +241,11 @@ This course was created for developers who already have some experience coding i
 - The Art of Writing Clean Django Code — Part 2, https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-2-31201ac07cd0
 - The Art of Writing Clean Django Code — Part 3, https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-3-54e924a22635
 - Stop Using Django’s Default Settings — Do This Instead, https://medium.com/the-pythonworld/stop-using-djangos-default-settings-do-this-instead-ea6f814dc1a1
+
+# SaaS
+
 - Designing a Django SaaS Permission System (Roles, Policies, RLS, and Async Checks), https://medium.com/@yogeshkrishnanseeniraj/designing-a-django-saas-permission-system-roles-policies-rls-and-async-checks-5f63f9288b25
+- SaaS Applications with Django: Ensuring Security for Your SaaS Platform [Part 6/7], https://medium.com/@mathur.danduprolu/saas-applications-with-django-ensuring-security-for-your-saas-platform-part-6-7-80bbfabfbd07
 - 
 
 
