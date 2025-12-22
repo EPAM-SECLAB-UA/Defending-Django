@@ -242,6 +242,14 @@ This course was created for developers who already have some experience coding i
 - The Art of Writing Clean Django Code — Part 3, https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-3-54e924a22635
 - Stop Using Django’s Default Settings — Do This Instead, https://medium.com/the-pythonworld/stop-using-djangos-default-settings-do-this-instead-ea6f814dc1a1
 
+
+
+
+
+# DJANGO 6.0
+- Django 6.0 + HTMX: Building Interactive Dashboards Without JavaScript Fatigue (Template Partials in Action), https://medium.com/@yogeshkrishnanseeniraj/django-6-0-htmx-building-interactive-dashboards-without-javascript-fatigue-template-partials-in-98e0ecbff2cc
+- 
+
 # Django SaaS
 
 - Designing a Django SaaS Permission System (Roles, Policies, RLS, and Async Checks), https://medium.com/@yogeshkrishnanseeniraj/designing-a-django-saas-permission-system-roles-policies-rls-and-async-checks-5f63f9288b25
@@ -251,12 +259,14 @@ This course was created for developers who already have some experience coding i
 - Django and Microservices Architecture: A Comprehensive Guide [Part 1/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-a-comprehensive-guide-part-1-7-6505e42cc38d
 - Django and Microservices Architecture: Database Management for Microservices [Part 4/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-database-management-for-microservices-part-4-7-17f4ddd72d50
 - Django and Microservices Architecture: Securing Microservices [Part 6/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-securing-microservices-part-6-7-bd5b9a8307b9
+- 10 Must-Build SaaS Features with Django + HTMX in 2026 — Part 4 (Subscriptions, Analytics, Onboarding), https://medium.com/@yogeshkrishnanseeniraj/10-must-build-saas-features-with-django-htmx-in-2026-part-4-subscriptions-analytics-7fe196955206
 - 
 
 
 
 # Django Aplication
 - Day 9: Building a Sentiment Analysis Tool with Django and NLT, https://medium.com/@mathur.danduprolu/day-12-building-a-sentiment-analysis-tool-with-django-and-nlt-3272fb05d985
+- Django 6.0 + Python 3.13: The Backend Duo That Changes Everything, https://medium.com/@backendbyeli/django-6-0-python-3-13-the-backend-duo-that-changes-everything-99ba688a135d
 - 
 
 
