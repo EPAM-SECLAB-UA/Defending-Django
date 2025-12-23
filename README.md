@@ -298,4 +298,5 @@ This course was created for developers who already have some experience coding i
 - FIREBASE, https://medium.com/@sam689422/firebase-05f6d1334d53
 - Firebase Push Notifications in Flutter, https://medium.com/@dritik458/firebase-push-notifications-in-flutter-c3a664a1ac59
 - 🔔 Topic-Based Push Notifications in Flutter for Android & iOS Using Firebase Cloud Messaging (FCM), https://medium.com/@shishir569/topic-based-push-notifications-in-flutter-for-android-ios-using-firebase-cloud-messaging-fcm-b5b6dbfb1391
+- Why HTMX is Killing React in Django Projects: Real Benchmarks and Migration Guide (2026 Edition), https://medium.com/@yogeshkrishnanseeniraj/why-htmx-is-killing-react-in-django-projects-real-benchmarks-and-migration-guide-2026-edition-ee9d1019f53b
 - 
