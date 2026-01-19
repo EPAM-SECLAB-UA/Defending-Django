@@ -266,6 +266,8 @@ This course was created for developers who already have some experience coding i
 - Django and Microservices Architecture: Database Management for Microservices [Part 4/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-database-management-for-microservices-part-4-7-17f4ddd72d50
 - Django and Microservices Architecture: Securing Microservices [Part 6/7], https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-securing-microservices-part-6-7-bd5b9a8307b9
 - 10 Must-Build SaaS Features with Django + HTMX in 2026 — Part 4 (Subscriptions, Analytics, Onboarding), https://medium.com/@yogeshkrishnanseeniraj/10-must-build-saas-features-with-django-htmx-in-2026-part-4-subscriptions-analytics-7fe196955206
+- Celery + Redis in Django: Mastering Background Tasks for SaaS, https://medium.com/django-journal/celery-redis-in-django-mastering-background-tasks-for-saas-827cda97d481
+- 
 - 
 
 
