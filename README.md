@@ -226,8 +226,14 @@ This course was created for developers who already have some experience coding i
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GeFQAbjBl17OV0tzkWcTsA.png)
 
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*hGXITj88P6qJcGRx58GbjQ.png)
+
 
 # Посилання
+
+- Top 10 Django Security Best Practices for 2026 (Post-Patch Edition), https://medium.com/django-journal/top-10-django-security-best-practices-for-2026-post-patch-edition-3d1e7d868ae4
+
+
 
 - Modern DevSecOps Practices for Django Developers (2025 Edition), https://medium.com/@Am_Issath/modern-devsecops-practices-for-django-developers-2025-edition-d007d61791c9
 - Django Internationalization: Because the World Speaks More Than English (And Your App Doesn’t), https://medium.com/@Am_Issath/django-internationalization-because-the-world-speaks-more-than-english-and-your-app-doesnt-8968ea951dd4
