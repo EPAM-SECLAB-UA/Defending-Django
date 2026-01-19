@@ -271,6 +271,13 @@ This course was created for developers who already have some experience coding i
 - 
 
 
+# DJNGO DEPLOYMENT
+- Django Deployment and Production Best Practices: A Complete Guide to Docker, Environment Configuration, and Scaling, https://medium.com/@yogeshkrishnanseeniraj/django-deployment-and-production-best-practices-a-complete-guide-to-docker-environment-32ed078cb38d
+- 
+
+
+
+
 
 # Django Aplication
 - Day 9: Building a Sentiment Analysis Tool with Django and NLT, https://medium.com/@mathur.danduprolu/day-12-building-a-sentiment-analysis-tool-with-django-and-nlt-3272fb05d985
